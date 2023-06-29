@@ -16,7 +16,7 @@ Também, foi adotado o *mobile first* para o desenvolvimento da página, com foc
 
 O resultado tem a seguinte aparência:
 
-![image-20230629162755899](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20230629162755899.png)
+![resultado-final](https://github.com/ContiRodrigues/dio-js-developer-portfolio/assets/106720974/2e548172-2bd1-404b-b1e5-b455a9fd9fd5)
 
 
 
